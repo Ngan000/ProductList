@@ -46,7 +46,7 @@ Trả về JSON có danh sách sản phẩm.
 ## Cách chạy
 flutter pub get
 flutter pub run build_runner build --delete-conflicting-outputs
-
+flutter run
 
 Kết quả
 
